@@ -9,6 +9,7 @@
     "no-console": 0,
     "linebreak-style": 0,
     "spaced-comment": 0,
-    "import/no-unresolved": 0
+    "import/no-unresolved": 0,
+    "max-len": 0
   }
 }
