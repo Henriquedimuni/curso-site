@@ -10,6 +10,7 @@
     "linebreak-style": 0,
     "spaced-comment": 0,
     "import/no-unresolved": 0,
-    "max-len": 0
+    "max-len": 0,
+    "no-restricted-globals": 0
   }
 }
